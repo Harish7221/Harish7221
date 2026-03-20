@@ -4,7 +4,7 @@
 **Harish7221/Harish7221** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-🎓 I’m **Harish D**, a B.Tech Computer Science student at **GITAM University (2022–2026)** with a strong focus on **AI, Deep Learning, and GenAI Engineering**.
+🎓 I’m **Harish D**, a B.Tech Computer Science student at **GITAM University (2022–2026)** with a strong focus on **AI Engineering**.
 
 ---
 
